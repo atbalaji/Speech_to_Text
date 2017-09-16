@@ -1,4 +1,3 @@
-# Speech_to_Text
 # Speech-To-Text
 <h2>A Python App that uses Google Speech Recognizer to recognize audio and convert them to text.It can also be used to open local files and search online</h2>
 <ul>
